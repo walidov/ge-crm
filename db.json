@@ -1,5 +1,158 @@
 {
-  "events": [
+  "tickets": [
+    {
+      "id": 1234,
+      "notifications": 5,
+      "Customer Name": "Exxon Mobil",
+      "Enquiry Type": "General",
+      "Enquiry Category": "General Sales",
+      "Date Started": "11/02/2020",
+      "Last Updated": "04/06/2020",
+      "Probability": null,
+      "Tasks": 12,
+      "Pipeline Status": "Lead - Not Qualified"
+    },
+    {
+      "id": 2345,
+      "notifications": 3,
+      "Customer Name": "Nestle",
+      "Enquiry Type": "Advertising",
+      "Enquiry Category": "Newsletter Account Activation",
+      "Date Started": "11/02/2020",
+      "Last Updated": "04/06/2020",
+      "Probability": 50,
+      "Tasks": 0,
+      "Pipeline Status": "Opportunity"
+    },
+    {
+      "id": 3456,
+      "notifications": 1,
+      "Customer Name": "Joe Bloggs",
+      "Enquiry Type": "Complaint",
+      "Enquiry Category": "Support Enquiry",
+      "Date Started": "11/02/2020",
+      "Last Updated": "04/06/2020",
+      "Probability": 50,
+      "Tasks": 9,
+      "Pipeline Status": "Closed Won"
+    },
+    {
+      "id": 4567,
+      "notifications": 0,
+      "Customer Name": "Peter Walker",
+      "Enquiry Type": "Media",
+      "Enquiry Category": "Support Enquiry",
+      "Date Started": "11/02/2020",
+      "Last Updated": "04/06/2020",
+      "Probability": 80,
+      "Tasks": 12,
+      "Pipeline Status": "Closed Lost"
+    },
+    {
+      "id": 5678,
+      "notifications": 0,
+      "Customer Name": "Exxon Mobil",
+      "Enquiry Type": "General",
+      "Enquiry Category": "General Sales",
+      "Date Started": "11/02/2020",
+      "Last Updated": "04/06/2020",
+      "Probability": 25,
+      "Tasks": 1,
+      "Pipeline Status": "Lead - Qualified"
+    },
+    {
+      "id": 6789,
+      "notifications": 0,
+      "Customer Name": "Nestle",
+      "Enquiry Type": "Advertising",
+      "Enquiry Category": "Site Advertising",
+      "Date Started": "11/02/2020",
+      "Last Updated": "04/06/2020",
+      "Probability": 25,
+      "Tasks": 1,
+      "Pipeline Status": "Prospect"
+    }
+  ],
+  "customers": [
+    {
+      "id": 123,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 456,
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 789,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1234,
+      "customer": "Exxon Mobil",
+      "desc": "Call the Client",
+      "task_type": "Call follow up",
+      "enquiry_type": "General",
+      "due": "11/05/2020",
+      "priority": "V-HIGH"
+    },
+    {
+      "id": 2345,
+      "customer": "Nestle",
+      "desc": "Call the Client",
+      "task_type": "Call follow up",
+      "enquiry_type": "Advertising",
+      "due": "11/05/2020",
+      "priority": "HIGH"
+    },
+    {
+      "id": 3456,
+      "customer": "Joe Bloggs",
+      "desc": "Call the Client",
+      "task_type": "Call follow up",
+      "enquiry_type": "Spam",
+      "due": "11/05/2020",
+      "priority": "MED"
+    }
+    {
+      "id": 4567,
+      "customer": "Exxon Mobil",
+      "desc": "Call the Client",
+      "task_type": "Call follow up",
+      "enquiry_type": "Complaint",
+      "due": "11/05/2020",
+      "priority": "LOW"
+    }
+    {
+      "id": 5678,
+      "customer": "Peter Walker",
+      "desc": "Call the Client",
+      "task_type": "Call follow up",
+      "enquiry_type": "Advertising",
+      "due": "11/05/2020",
+      "priority": "V-LOW"
+    }
+  ],				
+  "reports": [
     {
       "id": 123,
       "category": "animal welfare",
