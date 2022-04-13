@@ -45,5 +45,79 @@
       "due": "11/05/2020",
       "priority": "V-LOW"
     }
+  ],
+  "tickets": [
+    {
+      "id": 1234,
+      "notifications": 5,
+      "Customer Name": "Exxon Mobil",
+      "Enquiry Type": "General",
+      "Enquiry Category": "General Sales",
+      "Date Started": "11/02/2020",
+      "Last Updated": "04/06/2020",
+      "Probability": null,
+      "Tasks": 12,
+      "Pipeline Status": "Lead - Not Qualified"
+    },
+    {
+      "id": 2345,
+      "notifications": 3,
+      "Customer Name": "Nestle",
+      "Enquiry Type": "Advertising",
+      "Enquiry Category": "Newsletter Account Activation",
+      "Date Started": "11/02/2020",
+      "Last Updated": "04/06/2020",
+      "Probability": 50,
+      "Tasks": 0,
+      "Pipeline Status": "Opportunity"
+    },
+    {
+      "id": 3456,
+      "notifications": 1,
+      "Customer Name": "Joe Bloggs",
+      "Enquiry Type": "Complaint",
+      "Enquiry Category": "Support Enquiry",
+      "Date Started": "11/02/2020",
+      "Last Updated": "04/06/2020",
+      "Probability": 50,
+      "Tasks": 9,
+      "Pipeline Status": "Closed Won"
+    },
+    {
+      "id": 4567,
+      "notifications": 0,
+      "Customer Name": "Peter Walker",
+      "Enquiry Type": "Media",
+      "Enquiry Category": "Support Enquiry",
+      "Date Started": "11/02/2020",
+      "Last Updated": "04/06/2020",
+      "Probability": 80,
+      "Tasks": 12,
+      "Pipeline Status": "Closed Lost"
+    },
+    {
+      "id": 5678,
+      "notifications": 0,
+      "Customer Name": "Exxon Mobil",
+      "Enquiry Type": "General",
+      "Enquiry Category": "General Sales",
+      "Date Started": "11/02/2020",
+      "Last Updated": "04/06/2020",
+      "Probability": 25,
+      "Tasks": 1,
+      "Pipeline Status": "Lead - Qualified"
+    },
+    {
+      "id": 6789,
+      "notifications": 0,
+      "Customer Name": "Nestle",
+      "Enquiry Type": "Advertising",
+      "Enquiry Category": "Site Advertising",
+      "Date Started": "11/02/2020",
+      "Last Updated": "04/06/2020",
+      "Probability": 25,
+      "Tasks": 1,
+      "Pipeline Status": "Prospect"
+    }
   ]
 }
