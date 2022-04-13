@@ -132,7 +132,7 @@
       "enquiry_type": "Spam",
       "due": "11/05/2020",
       "priority": "MED"
-    }
+    },
     {
       "id": 4567,
       "customer": "Exxon Mobil",
@@ -141,7 +141,7 @@
       "enquiry_type": "Complaint",
       "due": "11/05/2020",
       "priority": "LOW"
-    }
+    },
     {
       "id": 5678,
       "customer": "Peter Walker",
