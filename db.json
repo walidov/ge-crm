@@ -57,7 +57,10 @@
       "last_updated": "04/06/2020",
       "probability": null,
       "tasks": 12,
-      "pipeline_status": "Lead - Not Qualified"
+      "pipeline_status": "Lead - Not Qualified",
+      "ticket_status": "In Progress",
+      "priority": "High",
+      "contact": "Joseph Bloggs"
     },
     {
       "id": 2345,
@@ -69,7 +72,10 @@
       "last_updated": "04/06/2020",
       "probability": 50,
       "tasks": 0,
-      "pipeline_status": "Opportunity"
+      "pipeline_status": "Opportunity",
+      "ticket_status": "In Progress",
+      "priority": "High",
+      "contact": "Martin Pngelly"
     },
     {
       "id": 3456,
@@ -81,7 +87,10 @@
       "last_updated": "04/06/2020",
       "probability": 50,
       "tasks": 9,
-      "pipeline_status": "Closed Won"
+      "pipeline_status": "Closed Won",
+      "ticket_status": "In Progress",
+      "priority": "High",
+      "contact": "John Cairns"
     },
     {
       "id": 4567,
@@ -93,7 +102,10 @@
       "last_updated": "04/06/2020",
       "probability": 80,
       "tasks": 12,
-      "pipeline_status": "Closed Lost"
+      "pipeline_status": "Closed Lost",
+      "ticket_status": "In Progress",
+      "priority": "High",
+      "contact": "Amy Walker"
     },
     {
       "id": 5678,
@@ -105,7 +117,10 @@
       "last_updated": "04/06/2020",
       "probability": 25,
       "tasks": 1,
-      "pipeline_status": "Lead - Qualified"
+      "pipeline_status": "Lead - Qualified",
+      "ticket_status": "In Progress",
+      "priority": "High",
+      "contact": "Judi Dench"
     },
     {
       "id": 6789,
@@ -117,7 +132,10 @@
       "last_updated": "04/06/2020",
       "probability": 25,
       "tasks": 1,
-      "pipeline_status": "Prospect"
+      "pipeline_status": "Prospect",
+      "ticket_status": "In Progress",
+      "priority": "High",
+      "contact": "McKesson"
     },
     {
       "id": 7890,
@@ -129,7 +147,10 @@
       "last_updated": "04/06/2020",
       "probability": 75,
       "tasks": 7,
-      "pipeline_status": "Deal Generated"
+      "pipeline_status": "Deal Generated",
+      "ticket_status": "In Progress",
+      "priority": "High",
+      "contact": "Joseph Bloggs"
     }
   ]
 }
