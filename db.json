@@ -118,6 +118,18 @@
       "probability": 25,
       "tasks": 1,
       "pipeline_status": "Prospect"
+    },
+    {
+      "id": 7890,
+      "notifications": 2,
+      "customer_name": "Peter Walker",
+      "enquiry_type": "General",
+      "enquiry_category": "Support Enquiry",
+      "date_started": "11/02/2020",
+      "last_updated": "04/06/2020",
+      "probability": 75,
+      "tasks": 7,
+      "pipeline_status": "Deal Generated"
     }
   ]
 }
