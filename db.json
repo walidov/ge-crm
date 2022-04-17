@@ -152,5 +152,77 @@
       "priority": "High",
       "contact": "Joseph Bloggs"
     }
+  ],
+  "customers": [
+    {
+      "id": 1234,
+      "customer_name": "Exxon Mobil",
+      "enquiry_type": "General",
+      "enquiry_category": "General Sales",
+      "added": "11/02/2020",
+      "primary_contact": "Joseph Bloggs",
+      "active_tasks": 12,
+      "priority": "High"
+    },
+    {
+      "id": 2345,
+      "customer_name": "Nestle",
+      "enquiry_type": "Advertising",
+      "enquiry_category": "Newsletter Account Activation",
+      "added": "11/02/2020",
+      "primary_contact": "Martin Pngelly",
+      "active_tasks": 0,
+      "priority": "High"
+    },
+    {
+      "id": 3456,
+      "customer_name": "Joe Bloggs",
+      "enquiry_type": "Complaint",
+      "enquiry_category": "Support Enquiry",
+      "added": "11/02/2020",
+      "primary_contact": "John Cairns",
+      "active_tasks": 9,
+      "priority": "High"
+    },
+    {
+      "id": 4567,
+      "customer_name": "Peter Walker",
+      "enquiry_type": "Media",
+      "enquiry_category": "Support Enquiry",
+      "added": "11/02/2020",
+      "primary_contact": "Amy Walker",
+      "active_tasks": 12,
+      "priority": "High"
+    },
+    {
+      "id": 5678,
+      "customer_name": "Exxon Mobil",
+      "enquiry_type": "General",
+      "enquiry_category": "General Sales",
+      "added": "11/02/2020",
+      "primary_contact": "Judi Dench",
+      "active_tasks": 1,
+      "priority": "High"
+    },
+    {
+      "id": 6789,
+      "customer_name": "Nestle",
+      "enquiry_type": "Advertising",
+      "enquiry_category": "Site Advertising",
+      "added": "11/02/2020",
+      "primary_contact": "McKesson",
+      "active_tasks": 1,
+      "priority": "High"
+    },
+    {
+      "id": 7890,
+      "customer_name": "Peter Walker",
+      "enquiry_type": "General",
+      "enquiry_category": "Support Enquiry",
+      "added": "11/02/2020",
+      "primary_contact": "Joseph Bloggs",
+      "active_tasks": 7,
+      "priority": "High"
+    }
   ]
 }
