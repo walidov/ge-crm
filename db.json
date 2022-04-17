@@ -224,5 +224,49 @@
       "active_tasks": 7,
       "priority": "High"
     }
+  ],
+  "reports": [
+    {
+      "id": 123,
+      "report_name": "Domains Offers",
+      "description": "Report showing all domains offers where Status is In Progress",
+      "author": "Michaela",
+      "created": "11/02/2020"
+    },
+    {
+      "id": 234,
+      "report_name": "Offers - Last Month",
+      "description": "Report showing all offers where ticket is in progress for the last calendar month",
+      "author": "Rocco",
+      "created": "11/02/2020"
+    },
+    {
+      "id": 345,
+      "report_name": "Domain Offers - Week",
+      "description": "Report showing all offers where ticket is in progress for the last calendar month",
+      "author": "Smita",
+      "created": "11/02/2020"
+    },
+    {
+      "id": 456,
+      "report_name": "Domain Offer & Question - All",
+      "description": "Report showing all domain Offers & Questions where Ticket is In Progress",
+      "author": "Anand",
+      "created": "11/02/2020"
+    },
+    {
+      "id": 567,
+      "report_name": "Offers & Questions - Last Month",
+      "description": "Report showing all Offers & Questions where Ticket is In Progress for the last calendar month",
+      "author": "Nico",
+      "created": "11/02/2020"
+    },
+    {
+      "id": 678,
+      "report_name": "Offers & Questions - Last Week",
+      "description": "Report showing all Offers & Questions where Tickets are In Progress for last calendar week",
+      "author": "Michaela Marcham",
+      "created": "11/02/2020"
+    }
   ]
 }
